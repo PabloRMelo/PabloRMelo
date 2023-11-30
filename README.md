@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pablo R. de Melo
+- 👋 Hi, I’m Pablo Rodriguez de Melo
 - 🌱 Actualmente aprendiendo Python and MySQL..
 - 💞️ Buscando aprender más sobre programación, especialmente Python
 
