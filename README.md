@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pablo Rodriguez de Melo
-- 🌱 Actualmente aprendiendo Python and MySQL..
+- 🌱 Actualmente aprendiendo Python y MySQL..
 - 💞️ Buscando aprender más sobre programación, especialmente Python
 
 <!---
