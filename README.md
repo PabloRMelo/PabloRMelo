@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pablo Rodriguez de Melo
-- 🌱 Actualmente aprendiendo Python y MySQL..
-- 💞️ Buscando aprender más sobre programación, especialmente Python y MySQL
+- 🌱 Actualmente aprendiendo Python, HTML y CSS.
+- 💞️ Buscando aprender más sobre programación, especialmente Python.
 
 <!---
 PabloRMelo/PabloRMelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
