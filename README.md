@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pablo Rodriguez de Melo
-- 🌱 Actualmente aprendiendo Python, HTML y CSS.
+- 🌱 Actualmente aprendiendo Python, MySQL, HTML y CSS.
 - 💞️ Buscando aprender más sobre programación, especialmente Python.
 
 <!---
