@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pablo Rodriguez de Melo
+- 👋 Hola, soy Pablo Rodriguez de Melo
 - 🌱 Actualmente aprendiendo Python, MySQL, HTML y CSS.
 - 💞️ Buscando aprender más sobre programación, especialmente Python.
 
